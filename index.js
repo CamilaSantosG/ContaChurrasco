@@ -21,6 +21,7 @@ function total() {
     document.getElementById('cerveja').textContent = `Cerveja: ${totalCerveja} L`;
     document.getElementById('refrigerante').textContent = `Refrigerante: ${totalRefrigerante} ml`;
     document.getElementById('agua').textContent = `Água: ${totalAgua} ml`;
+
 }
 
 // Atualizar os cálculos quando houver alteração nos campos de entrada
