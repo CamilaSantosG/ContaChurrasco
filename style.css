@@ -1,5 +1,6 @@
 *{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
 }
 
 table {
@@ -7,13 +8,13 @@ table {
     width: 100%;
   }
   th, td {
-    border: 1px solid rgb(23, 86, 97);
+    border: 1px solid rgb(0, 0, 0);
     padding: 8px;
     text-align: left;
   }
   th {
-    background-color: #75e0ee;
+    background-color: #818181;
   }
   hr{
-    border: 3px solid #75e0ee ;
+    border: 3px solid #818181 ;
   }
